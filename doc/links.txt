@@ -3,3 +3,5 @@ https://www.pelock.com/articles/polymorphic-encryption-algorithms
 https://www.nayuki.io/page/rc4-cipher-in-x86-assembly
 
 https://github.com/vxunderground/MalwareSourceCode
+
+https://github.com/frkngksl/Shoggoth
